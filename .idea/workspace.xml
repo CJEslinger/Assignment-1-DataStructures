@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77124f04-64b4-4a3b-8d28-010dd9a53ef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment 1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/Bush.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Bush.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Creature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/Grader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Grader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/Hunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Hunt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/episode1/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/View.java" afterDir="false" />
-    </list>
+    <list default="true" id="77124f04-64b4-4a3b-8d28-010dd9a53ef1" name="Changes" comment="First" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +36,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674679212903</updated>
     </task>
+    <task id="LOCAL-00001" summary="First">
+      <created>1674679639791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674679639791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
   </component>
 </project>
