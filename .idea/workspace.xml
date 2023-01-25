@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77124f04-64b4-4a3b-8d28-010dd9a53ef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment 1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/Bush.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Bush.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/Grader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Grader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/Hunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Hunt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/episode1/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/episode1/View.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Kpl4KirBz5rkQbQfEiw8bJxyY6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77124f04-64b4-4a3b-8d28-010dd9a53ef1" name="Changes" comment="" />
+      <created>1674679212903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674679212903</updated>
+    </task>
+    <servers />
+  </component>
+</project>
